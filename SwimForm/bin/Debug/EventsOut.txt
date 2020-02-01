@@ -1,0 +1,7 @@
+_50|Freestyle
+_100|Butterfly
+_200|Breaststroke
+_400|Freestyle
+_1500|Freestyle
+_1500|Freestyle
+_50|Butterfly

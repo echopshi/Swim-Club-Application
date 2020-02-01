@@ -1,0 +1,17 @@
+H:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.csprojResolveAssemblyReference.cache
+H:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.csproj.CoreCompileInputs.cache
+H:\HLi_300993981_A4\SwimLib\bin\Debug\SwimLib.dll
+H:\HLi_300993981_A4\SwimLib\bin\Debug\SwimLib.pdb
+H:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.dll
+H:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.pdb
+E:\HLi_300993981_A4\SwimLib\bin\Debug\SwimLib.dll
+E:\HLi_300993981_A4\SwimLib\bin\Debug\SwimLib.pdb
+E:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.csprojResolveAssemblyReference.cache
+E:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.csproj.CoreCompileInputs.cache
+E:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.dll
+E:\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.pdb
+F:\college\Summer 2018\COMP123-003\Assignments\HLi_300993981_A4\SwimLib\bin\Debug\SwimLib.dll
+F:\college\Summer 2018\COMP123-003\Assignments\HLi_300993981_A4\SwimLib\bin\Debug\SwimLib.pdb
+F:\college\Summer 2018\COMP123-003\Assignments\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.csprojAssemblyReference.cache
+F:\college\Summer 2018\COMP123-003\Assignments\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.dll
+F:\college\Summer 2018\COMP123-003\Assignments\HLi_300993981_A4\SwimLib\obj\Debug\SwimLib.pdb
